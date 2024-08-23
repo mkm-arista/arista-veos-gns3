@@ -359,4 +359,4 @@ In order to get connectivity from a vEOS instance to the host system or the Inte
 
 ![vEOS ZTP Success](./images/Screenshot_20240822_125913.png)
 
-#### Congratulations! You've successfully built a vEOS lab using GNS3 on Ubuntu 24.04 and configured ZTP for CloudVision-as-a-Service! ####
+Congratulations! You've successfully built a vEOS lab using GNS3 on Ubuntu 24.04 and configured ZTP for CloudVision-as-a-Service!
