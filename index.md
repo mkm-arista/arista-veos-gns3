@@ -61,11 +61,11 @@ Ubuntu was chosen as the OS because of its reliability, ease of use, and broad c
 
 * In order to keep from having to manually start gns3server every time you want to use it, the following configuration will configure it to run as a service using systemd: 
     
-    - Create a file called 'gns3server.service' in the directory */etc/systemd/system/* -- 
+    - Create a file called 'gns3server.service' in the directory */etc/systemd/system/*:
     
         `sudo vim /etc/systemd/system/gns3server.service`
     
-    - Paste the following into the file 'gns3server.service' --
+    - Paste the following into the file 'gns3server.service':
 
 ```
     [Unit]
