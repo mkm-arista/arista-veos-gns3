@@ -66,6 +66,7 @@ Ubuntu was chosen as the OS because of its reliability, ease of use, and broad c
         `sudo vim /etc/systemd/system/gns3server.service`
     
     - Paste the following into the file 'gns3server.service' --
+
 ```
     [Unit]
     Description=GNS3 server
