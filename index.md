@@ -29,9 +29,9 @@ Ubuntu was chosen as the OS because of its reliability, ease of use, and broad c
     (optional) sudo apt install gns3-webclient-pack
 ```
 
-* Install supplemental libvirt packages:
+* Install supplemental libvirt & wireshark packages:
     
-   `sudo apt install libvirt-clients libvirt-clients-qemu libvirt-daemon`
+   `sudo apt install libvirt-clients libvirt-clients-qemu libvirt-daemon wireshark`
 
 * Install other helpful utilities via apt (optional, but highly recommended):
 
