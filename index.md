@@ -111,7 +111,7 @@ Ubuntu was chosen as the OS because of its reliability, ease of use, and broad c
 
 ### Upload vEOS image to GNS3 host system
 
-* Download the latest vEOS-lab image in .qcow2 file format here:
+* Download the latest **vEOS-lab image in .qcow2** file format, along with the latest **Aboot-veos-<$version>.iso** found under **'vEOS Lab'** here:
     <https://www.arista.com/en/support/software-download>
 
 * Copy to the GNS3 host system. If you installed OpenSSH-server, then you can do this simply using the following command:
